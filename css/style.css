@@ -225,9 +225,9 @@ html {
 
 
 .main_portfolio {
-    height: 1200px;
+    /* height: 1200px; */
     background-color: #f6f6f6;
-
+    padding-bottom: 80px;
 }
 
 .portfolio_title {
@@ -464,7 +464,7 @@ html {
     }
 
     .main_skills {
-        height: 150vh;
+        height: 1440px;
     }
 
     .portfolio_img {
